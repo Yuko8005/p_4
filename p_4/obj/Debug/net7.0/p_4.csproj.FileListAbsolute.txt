@@ -1,0 +1,15 @@
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.csproj.AssemblyReference.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.AssemblyInfoInputs.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.AssemblyInfo.cs
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.csproj.CoreCompileInputs.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\bin\Debug\net7.0\p_4.exe
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\bin\Debug\net7.0\p_4.deps.json
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\bin\Debug\net7.0\p_4.runtimeconfig.json
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\bin\Debug\net7.0\p_4.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\bin\Debug\net7.0\p_4.pdb
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\refint\p_4.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.pdb
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\p_4.genruntimeconfig.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\p_4\p_4\obj\Debug\net7.0\ref\p_4.dll
